@@ -135,6 +135,9 @@ h2 {
 .category_item:last-child {
     height: 180px;
 }
+.category_btn {
+    text-decoration: none;
+}
 .featured {
     margin-top: 100px;
     text-align: center;
